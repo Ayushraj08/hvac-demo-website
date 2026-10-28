@@ -66,10 +66,10 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
           <div className="lg:col-span-5 w-full">
             <div className="relative rounded-2xl overflow-hidden border border-slate-200 shadow-sm aspect-[16/10] sm:aspect-[4/3] bg-slate-100 w-full">
               <img
-                src="/src/assets/images/hvac_hero_scottsdale_1793216287692.jpg"
+                src="/images/hero.jpg"
                 alt="Apex Scottsdale HVAC Specialist"
                 className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
+                loading="eager"
               />
               <div className="absolute bottom-2.5 left-2.5 right-2.5 px-3 py-1.5 bg-white/95 backdrop-blur-sm rounded-lg border border-slate-200 flex items-center justify-between text-[11px] font-semibold text-[#0A1F44]">
                 <span>Priority Scottsdale Dispatch</span>

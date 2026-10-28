@@ -61,10 +61,9 @@ export const WhyChooseApex: React.FC<WhyChooseApexProps> = ({ onOpenBooking }) =
           <div className="lg:col-span-5 bg-[#0A1F44] text-white rounded-3xl overflow-hidden shadow-xl border border-blue-950 flex flex-col">
             <div className="h-52 relative overflow-hidden">
               <img
-                src="/src/assets/images/modern_ac_unit_1793216287439.jpg"
+                src="/images/modern_ac.jpg"
                 alt="New high efficiency Trane and Lennox condenser installed in Scottsdale AZ"
                 className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0A1F44] via-transparent to-transparent" />
               <span className="absolute top-3 right-3 px-2.5 py-1 rounded-md text-[10px] font-bold uppercase tracking-wider bg-amber-500 text-[#0A1F44]">

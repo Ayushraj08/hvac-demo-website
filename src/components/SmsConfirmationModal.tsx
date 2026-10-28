@@ -126,10 +126,9 @@ export const SmsConfirmationModal: React.FC<SmsConfirmationModalProps> = ({
         <div className="p-4 space-y-3">
           <div className="flex items-center gap-3 p-2.5 bg-slate-50 rounded-xl border border-slate-200">
             <img
-              src="/src/assets/images/technician_avatar_1793216287916.jpg"
+              src="/images/technician.jpg"
               alt="Technician Mark R."
               className="w-11 h-11 rounded-full object-cover border border-[#2563EB] shrink-0"
-              referrerPolicy="no-referrer"
             />
             <div className="flex-1 min-w-0">
               <div className="flex items-center justify-between">
