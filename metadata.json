@@ -1,0 +1,6 @@
+{
+  "name": "Apex Scottsdale HVAC",
+  "description": "Scottsdale's Premier 24/7 Heating & AC Specialists. Instant diagnostic quote, same-day dispatch, and verified Scottsdale slot booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
